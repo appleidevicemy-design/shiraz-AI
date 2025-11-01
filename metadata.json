@@ -1,0 +1,7 @@
+{
+  "name": "Shiraz Store AI Agent",
+  "description": "An AI-powered voice assistant that responds to customer inquiries in real-time using Gemini's Live API, simulating a support agent for platforms like WhatsApp and Telegram.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
